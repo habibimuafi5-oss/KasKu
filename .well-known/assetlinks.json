@@ -1,0 +1,8 @@
+{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.habibimuafi5_oss.twa",
+        "sha256_cert_fingerprints": ["F7:BA:0E:3B:BB:FC:7D:D3:08:BE:EA:5C:69:80:E3:8F:82:AA:1D:4E:09:FC:A1:C2:95:67:36:98:B3:01:10:1D"]
+      }
+    }]
